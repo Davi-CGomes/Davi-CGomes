@@ -16,6 +16,6 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-
+</br>
 Admirador da tecnologia, do conhecimento e da mudança de vida através dos estudos e da programação.
 
