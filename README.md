@@ -4,7 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_cgomes/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-gomes-29a57226a/)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-CGomes&show_icons=true&theme=radical)
 
 ### Tecnologias que utilizo!
 
@@ -17,10 +16,6 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
-### Linguagens mais usadas!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CGomes&hide_progress=true)
-<br/>
 
 Admirador da tecnologia, do conhecimento e da mudança de vida através dos estudos e da programação.
 
